@@ -1,2 +1,2 @@
 NEW file is created for testing.
-test in progress...	
+Test completed
